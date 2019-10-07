@@ -39,7 +39,7 @@ public class Main {
          * 
          */
                
-        String whichAlgorithm = args[0];
+        String whichAlgorithm = args[1];
         whichAlgorithm = whichAlgorithm.toLowerCase();
         String netName = args[1];
         
